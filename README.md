@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Olá! Eu sou o João 👋<br>Sou desenvolvedor front-end e mobile, apaixonado por criar interfaces intuitivas e experiências de usuário fluídas. Atualmente, moro em Tauá e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.</p>
+<p align="left">Olá! Eu sou o João 👋<br>Sou desenvolvedor Web, apaixonado por criar interfaces intuitivas e experiências de usuário fluídas. Atualmente, moro em Tauá e estou sempre em busca de novos desafios e oportunidades para aprender e crescer na área de tecnologia.</p>
 
 ###
 
